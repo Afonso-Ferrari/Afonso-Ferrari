@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o Afonso Ferrari 👋
 
-<!--
-**Afonso-Ferrari/Afonso-Ferrari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia da Computação na Universidade São Judas Tadeu (USJT)  
+🎯 Buscando primeira oportunidade de Estágio em Engenharia de Software / Backend  
+💡 Foco atual: Desenvolvimento Backend com Python, REST APIs e Bancos de Dados Relacionais  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias & Ferramentas
+- **Linguagens:** Python, Java, C/C++, SQL
+- **Banco de Dados:** MySQL
+- **Controle de Versão:** Git, GitHub
+- **Conceitos:** POO, Arquitetura DAO, Criptografia (SHA-256), Protocolo I2C
+
+---
+
+### 📌 Projetos em Destaque
+- 📁 **[Virtual-Exams](#)**: Sistema desktop em Java + MySQL para gestão de prontuários com hash SHA-256.
+- 📁 **[Elevator-Control-System](#)**: Automação em C/C++ com Arduino, comunicação I2C e PWM.
+
+---
+
+📫 **Como me encontrar:**  
+- LinkedIn: [afonso-ferrari-eng](https://www.linkedin.com/in/afonso-ferrari-eng)  
+- E-mail: afonsof731@gmail.com
